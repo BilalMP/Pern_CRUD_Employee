@@ -1,0 +1,5 @@
+# files and directories that should be excluded when building the Docker image
+node_modules
+npm-debug.log
+yarn-error.log
+.git

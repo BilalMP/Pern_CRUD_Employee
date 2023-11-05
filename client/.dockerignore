@@ -1,0 +1,5 @@
+# files or directories should be excluded from the Docker build context
+node_modules
+npm-debug.log
+yarn-error.log
+.git
